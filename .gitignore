@@ -3,7 +3,6 @@
 # dependencies
 /node_modules
 /.pnp
-/backend/requests
 .pnp.js
 
 # testing
@@ -18,9 +17,9 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.env
 requests
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-backend/
